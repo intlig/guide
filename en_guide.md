@@ -79,7 +79,7 @@ We propose establishing the International League to implement liquid democracy a
 
 We invite all who share these aspirations to join the International League. Together, we can harness the power of liquid democracy and our shared principles to create meaningful change. Participation can take many forms:
 
-- **Engage in Dialogue**: Join discussions, share ideas, and collaborate on solutions.
+- **Engage in Dialogue**: [Join discussions](https://discord.gg/z76nYWj9), share ideas, and collaborate on solutions.
 - **Contribute to Development**: Assist in building the liquid democracy platform or educational resources.
 - **Advocate for Change**: Promote our principles within your communities and networks.
 
