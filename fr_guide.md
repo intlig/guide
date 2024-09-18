@@ -63,7 +63,7 @@ Nous proposons la création de la Ligue Internationale pour mettre en œuvre la 
 
 ### Inquiétude 3 : **Comment protéger la démocratie liquide de la désinformation et de la manipulation ?**
 
-**Réponse** : L’éducation et la transparence sont essentielles. En fournissant aux citoyens des informations exactes et en favorisant la pensée critique, nous pouvons atténuer les risques de désinformation. De plus, la flexibilité de la démocratie liquide permet aux individus de réajuster leurs délégations si la confiance est compromise.
+**Réponse** : L’éducation et la transparence sont essentielles. En fournissant aux citoyens des informations exactes et en favorisant la pensée critique, nous pouvons atténuer les risques de désinformation. De plus, la flexibilité de la démocratie liquide permet aux individus de réajuster leurs délégations si la confiance est compromise. Voir le [Manifeste de la Ligue Démocratique](https://github.com/ligdem/ligdem/blob/main/manifest/fr_manifeste_ligue_democratique.md)
 
 ### Inquiétude 4 : **Réduire la production d'armes est-il réaliste compte tenu des préoccupations de sécurité mondiale ?**
 
