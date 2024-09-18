@@ -79,7 +79,7 @@ Nous proposons la création de la Ligue Internationale pour mettre en œuvre la 
 
 Nous invitons tous ceux qui partagent ces aspirations à rejoindre la Ligue Internationale. Ensemble, nous pouvons utiliser le pouvoir de la démocratie liquide et de nos principes partagés pour créer un changement significatif. La participation peut prendre de nombreuses formes :
 
-- **Engagez-vous dans le Dialogue** : Participez aux discussions, partagez des idées et collaborez à la recherche de solutions.
+- **Engagez-vous dans le Dialogue** : [Participez aux discussions](https://discord.gg/z76nYWj9), partagez des idées et collaborez à la recherche de solutions.
 - **Contribuez au Développement** : Aidez à construire la plateforme de démocratie liquide ou les ressources éducatives.
 - **Plaidez pour le Changement** : Promouvez nos principes au sein de vos communautés et réseaux.
 
