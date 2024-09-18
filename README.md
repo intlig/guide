@@ -1,3 +1,4 @@
 # International League
 
-[Guide in english](./en_guide.md)
+[Guide in English](./en_guide.md)  
+[Guide en Français](./fr_guide.md)
