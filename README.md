@@ -1,2 +1,3 @@
-# guide
-International league's guide
+# International League
+
+[Guide in english](./en_guide.md)
