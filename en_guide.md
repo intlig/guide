@@ -63,7 +63,7 @@ We propose establishing the International League to implement liquid democracy a
 
 ### Concern 3: **How can liquid democracy be protected from misinformation and manipulation?**
 
-**Response**: Education and transparency are key. By providing citizens with accurate information and fostering critical thinking, we can mitigate the risks of misinformation. Additionally, the flexibility of liquid democracy allows individuals to adjust their delegations if trust is compromised.please check the [Democratic League's manifesto]()
+**Response**: Education and transparency are key. By providing citizens with accurate information and fostering critical thinking, we can mitigate the risks of misinformation. Additionally, the flexibility of liquid democracy allows individuals to adjust their delegations if trust is compromised. Please check the [Democratic League's manifesto](https://github.com/intlig/guide/blob/main/en_guide.md)
 
 ### Concern 4: **Is it realistic to reduce weapon production given global security concerns?**
 
