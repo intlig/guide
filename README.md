@@ -7,7 +7,7 @@
 [Discuss on our discord server](https://discord.gg/z76nYWj9)
 
 
-[Material for flyer](./communication/flyer_2024/README.md)
+[Communication resources](./communication/README.md)
 
 This page can also be reach with the shore url : [https://bit.ly/4ewUsXR](https://bit.ly/4ewUsXR) 
 
