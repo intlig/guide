@@ -16,3 +16,5 @@ Here are the resources available in this directory:
 - [La_liga_flyer.pptx](La_liga_flyer.pptx)
 - [share_ideas.xcf](share_ideas.xcf)
 - [work_only_makes_money.xcf](work_only_makes_money.xcf)
+
+for .xcf files, you can use [GIMP](https://www.gimp.org/) to edit them.
