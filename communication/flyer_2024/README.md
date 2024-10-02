@@ -1,1 +1,0 @@
-You will find here material we used to create the first flyer
