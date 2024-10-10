@@ -5,3 +5,5 @@
 [video oct 2 2024](./video_1/README.md)
 
 [video oct 2 2024 2](./video_2/README.md)
+
+[video oct 10 2024](./video_3/README.md)
