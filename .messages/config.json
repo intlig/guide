@@ -1,9 +1,9 @@
 {
   "commit_frequency_min": 1440,
-  "binary_storage_type": "gitfs",
+  "binary_storage_type": "s3",
   "storage_info": {
     "type": "gitfs",
-    "url": "",
+    "url": "https://skygit.s3.fr-par.scw.cloud",
     "credentials": {}
   }
 }
