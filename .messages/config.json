@@ -3,7 +3,6 @@
   "binary_storage_type": "s3",
   "storage_info": {
     "type": "gitfs",
-    "url": "https://skygit.s3.fr-par.scw.cloud",
-    "credentials": {}
+    "url": "https://skygit.s3.fr-par.scw.cloud"
   }
 }
